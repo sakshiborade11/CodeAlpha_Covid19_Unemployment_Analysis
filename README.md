@@ -1,4 +1,4 @@
-# CodeAlpha_Covid19_Unemployment_Analysis
+# Covid19_Unemployment_Analysis
 
 This project explores unemployment trends using Python, with a special focus on the impact of COVID-19 🦠.
 It involves data cleaning, exploration, and visualization to uncover patterns, seasonal variations, and regional differences in unemployment rates.
@@ -18,11 +18,5 @@ It involves data cleaning, exploration, and visualization to uncover patterns, s
 - Pandas
 - Matplotlib
 - Seaborn
-
-
-📌 Acknowledgement
-
-Developed as part of the CodeAlpha Internship Program in the Data Science domain.
-
 
 
